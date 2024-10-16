@@ -1,1 +1,2 @@
-recursive-include libero/configs *.yaml
+graft libero/configs
+graft libero/libero
