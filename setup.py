@@ -19,7 +19,6 @@ setup(
     include_package_data=True,
     python_requires=">=3",
     description="LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
-    package_data={"": ["*.yaml"]},
     author="Bo Liu, Yifeng Zhu, Chongkai Gao, Yihao Feng, Qiang Liu, Yuke Zhu, Peter Stone",
     # url="https://github.com/ARISE-Initiative/robosuite",
     author_email="bliu@cs.utexas.edu, yifengz@cs.utexas.edu",
